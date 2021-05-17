@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Empresas</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="welcome">Bem-vindo ao Empresas</string>
+    <string name="enter">Entrar</string>
+    <string name="errorconect">Erro de conexão!</string>
+    <string name="loading">Carregando...</string>
+    <string name="error_email">E-mail inválido!</string>
+    <string name="password_short">Senha muito curta!</string>
+    <string name="invalid_credentials">Credenciais informadas são inválidas, tente novamente!</string>
+    <string name="click_search">Clique na busca para iniciar.</string>
+    <string name="search_title">Pesquisar</string>
+    <string name="search_hint">Pesquisar</string>
+    <string name="empty_search">Nenhuma empresa foi encontrada para a busca realizada.</string>
+</resources>
